@@ -1,0 +1,39 @@
+name: Node CI
+
+on:
+  schedule:
+  - cron: "0 0 * * *"
+    
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x]
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: generate
+      run: |
+        yarn 
+        ./index.js
+      env:
+        CI: true
+    - name: git commit
+      run: |
+        git config user.name "githubaction"
+        git config user.email "lotosbin+githubaction@gmail.com"
+        git checkout master
+        git add data/*
+        git commit -m "feat: update opml files"
+    - uses: lotosbin/github-push-action@master
+      with:
+        github_user: lotosbin
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
