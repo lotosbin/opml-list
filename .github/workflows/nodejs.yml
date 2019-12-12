@@ -23,6 +23,7 @@ jobs:
       run: |
         yarn 
         ./index.js
+        ./merge.sh
       env:
         CI: true
     - name: git commit
@@ -31,6 +32,7 @@ jobs:
         git config user.email "lotosbin+githubaction@gmail.com"
         git checkout master
         git add data/*
+        git add generate/*
         git commit -m "feat: update opml files"
     - uses: lotosbin/github-push-action@master
       with:

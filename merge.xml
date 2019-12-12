@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head><title>中文独立博客列表</title></head>
+<body xmlns:xi="http://www.w3.org/2003/XInclude"> 
+    <xi:include href="data/feed.opml" parse="xml" xpointer="xpointer(/opml/body/outline)"/> 
+    <xi:include href="data/feedlist.opml" parse="xml" xpointer="xpointer(/opml/body/outline)"/> 
+</body> 
+</opml>

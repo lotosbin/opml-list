@@ -12,7 +12,7 @@
 ## 体
 - [x] github actions 每日执行 index.js,
 - [x] index.js 中会下载 收录的 opml 文件，
-- [ ] 合并所有opml文件为一个 opml文件
+- [x] 合并所有opml文件为一个 opml文件
 - [ ] 重新分类所有feed，生成分类/主题的 opml文件
 - [ ] 扩展opml协议支持rsshub使用的模板路径的订阅源，可以动态展开成固定的订阅源
 
