@@ -18,7 +18,7 @@
 
 ## 用
 - [x] data 目录下是每日采集的opml文件
-- [ ] generate/all.opml 存放合并后的opml文件
+- [x] generate/all.opml 存放合并后的opml文件
 - [ ] generate/{category|tag}.opml 为重新整理后的 opml 文件 
 - [ ] 可以直接订阅rsshub的有模板订阅源
 
