@@ -26,6 +26,10 @@ jobs:
         ./merge.sh
       env:
         CI: true
+    - name: pandoc opml 2 html
+      uses: docker://pandoc/core:2.9
+      with:
+        args: "generate/all.opml -o generate/all.html --from opml --to html5" # gets appended to pandoc command
     - name: git commit
       run: |
         git config user.name "githubaction"
