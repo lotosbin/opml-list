@@ -30,6 +30,9 @@
 <outline text="forecho 的独立博客" title="forecho 的独立博客" type="rss" xmlUrl="https://blog.forecho.com/atom.xml" htmlUrl="https://blog.forecho.com/"/>
 <outline text="Randy's Blog" title="Randy's Blog" type="rss" xmlUrl="https://lutaonan.com/rss.xml" htmlUrl="https://lutaonan.com/"/>
 <outline text="范叶亮的博客 - Leo Van's Blog" title="范叶亮的博客 - Leo Van's Blog" type="rss" xmlUrl="https://leovan.me/index.xml" htmlUrl="https://leovan.me/"/>
+<outline text="ZMonster's Blog" title="ZMonster's Blog" type="rss" xmlUrl="http://www.zmonster.me/atom.xml" htmlUrl="http://www.zmonster.me/"/>
+<outline text="Hi, DIYgod" title="Hi, DIYgod" type="rss" xmlUrl="https://diygod.me/atom.xml" htmlUrl="https://diygod.me/"/>
+<outline text="Blanboom" title="Blanboom" type="rss" xmlUrl="https://blanboom.org/feed" htmlUrl="https://blanboom.org/"/>
 <outline text="宇宙的心弦 - 细推物理须行乐 何用浮名绊此身" title="宇宙的心弦 - 细推物理须行乐 何用浮名绊此身" type="rss" xmlUrl="https://www.physixfan.com/feed/" htmlUrl="https://www.physixfan.com/"/>
 <outline text="智识@IdeoBook™" title="智识@IdeoBook™" type="rss" xmlUrl="http://www.ideobook.com/feed/" htmlUrl="http://www.ideobook.com/"/>
 <outline text="Beyond the Void" title="Beyond the Void" type="rss" xmlUrl="http://www.byvoid.com/blog/feed/" htmlUrl="http://www.byvoid.com/"/>
@@ -56,4 +59,5 @@
 <outline text="比目鱼博客：Bimuyu's Blog" title="比目鱼博客：Bimuyu's Blog" type="rss" xmlUrl="http://www.bimuyu.com/blog/rss.xml" htmlUrl="http://www.bimuyu.com/blog/"/>
 <outline text="Elizen - 人间不值得" title="Elizen - 人间不值得" type="rss" xmlUrl="https://blog.elizen.me/feed" htmlUrl="https://blog.elizen.me/"/>
 <outline text="Neverland – Wherefore art thou?" title="Neverland – Wherefore art thou?" type="rss" xmlUrl="https://type.cyhsu.xyz/feed/" htmlUrl="https://type.cyhsu.xyz/"/>
-<outline text="杨钦元 - 博客" title="杨钦元 - 博客" type="rss" xmlUrl="http://yangqinyuan.com/feed.xml" htmlUrl="http://yangqinyuan.com/"/></outline></body></opml>
+<outline text="杨钦元 - 博客" title="杨钦元 - 博客" type="rss" xmlUrl="http://yangqinyuan.com/feed.xml" htmlUrl="http://yangqinyuan.com/"/>
+<outline text="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" title="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" type="rss" xmlUrl="	https://jarodise.com/feed/" htmlUrl="https://jarodise.com/"/></outline></body></opml>
