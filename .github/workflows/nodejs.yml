@@ -19,6 +19,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+    - name: Install xmllint
+      run: sudo apt-get install -y libxml2-utils
     - name: generate
       run: |
         yarn && ./index.js && ./merge.sh
