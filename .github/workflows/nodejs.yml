@@ -21,9 +21,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: generate
       run: |
-        yarn 
-        ./index.js
-        ./merge.sh
+        yarn && ./index.js && ./merge.sh
       env:
         CI: true
     - name: pandoc opml 2 html
