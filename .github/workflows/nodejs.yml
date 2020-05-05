@@ -23,13 +23,14 @@ jobs:
       run: sudo apt-get install -y libxml2-utils
     - name: generate
       run: |
-        yarn && ./index.js && ./merge.sh && touch ./generate/all.html
+        yarn && ./index.js && ./merge.sh
       env:
         CI: true
     - name: pandoc opml 2 html
-      uses: docker://pandoc/core:2.9
+      uses: maxheld83/pandoc@v2
       with:
-        args: "./generate/all.opml -o ./generate/all.html --from opml --to html5" # gets appended to pandoc command
+        args: "./generate/all.opml --standalone  -o ./generate/all.html --from opml --to html5" # gets appended to pandoc command
+        #args: "--standalone --output=output/index.html input.txt"
     - name: git commit
       run: |
         git config user.name "githubaction"
