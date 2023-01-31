@@ -39,6 +39,7 @@ jobs:
         git add data/*
         git add generate/*
         git commit -m "feat: update opml files"
+        git config --global --add safe.directory /github/workspace
     - uses: lotosbin/github-push-action@master
       with:
         github_user: lotosbin
