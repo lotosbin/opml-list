@@ -15,6 +15,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+    - run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
@@ -39,7 +40,6 @@ jobs:
         git add data/*
         git add generate/*
         git commit -m "feat: update opml files"
-        git config --global --add safe.directory /github/workspace
     - uses: lotosbin/github-push-action@master
       with:
         github_user: lotosbin
