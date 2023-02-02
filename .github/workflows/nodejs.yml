@@ -14,7 +14,7 @@ jobs:
         node-version: [10.x]
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v3
     - run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
@@ -40,8 +40,4 @@ jobs:
         git add data/*
         git add generate/*
         git commit -m "feat: update opml files"
-    - uses: lotosbin/github-push-action@master
-      with:
-        github_user: lotosbin
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        #repo-token: ${{ secrets.GITHUB_TOKEN }}
+        git push
