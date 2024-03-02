@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>中文独立博客列表</title>
+</head>
+<body>
+<outline text="xLog全时最热" title="xLog全时最热" type="rss" xmlUrl="https://xlog.app/feed/hottest?interval=0" htmlUrl="https://xlog.app/"/>
+</body>
+</opml>
