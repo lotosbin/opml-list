@@ -179,7 +179,7 @@
 <outline text="空之领域" title="空之领域" type="rss" xmlUrl="https://xsky.me/atom.xml" htmlUrl="https://xsky.me"/>
 <outline text="Claude's Blog" title="Claude's Blog" type="rss" xmlUrl="https://claude-ray.github.io/atom.xml" htmlUrl="https://claude-ray.github.io"/>
 <outline text="Just lepture" title="Just lepture" type="rss" xmlUrl="https://lepture.com/feed.xml" htmlUrl="https://lepture.com/"/>
-<outline text="Lyric" title="Lyric" type="rss" xmlUrl="https://quail.ink/lyric/feed/atom" htmlUrl="https://lyric.im/"/>
+<outline text="Lyric" title="Lyric" type="rss" xmlUrl="https://quaily.com/lyric/feed/atom" htmlUrl="https://quaily.com/lyric"/>
 <outline text="桑弧蓬矢射四方" title="桑弧蓬矢射四方" type="rss" xmlUrl="https://iphyer.github.io/feed.xml" htmlUrl="https://iphyer.github.io/"/>
 <outline text="杂货屋" title="杂货屋" type="rss" xmlUrl="https://sword.studio/feed/" htmlUrl="https://sword.studio/"/>
 <outline text="沐凉" title="沐凉" type="rss" xmlUrl="https://blog.lacia.cn/atom.xml" htmlUrl="https://blog.lacia.cn"/>
@@ -1063,7 +1063,7 @@
 <outline text="段某人的博客" title="段某人的博客" type="rss" xmlUrl="https://duanmourena.github.io/feed.xml" htmlUrl="https://duanmourena.github.io/"/>
 <outline text="流动" title="流动" type="rss" xmlUrl="https://liudon.com/index.xml" htmlUrl="https://liudon.com"/>
 <outline text="FGHRSH 的博客" title="FGHRSH 的博客" type="rss" xmlUrl="https://www.fghrsh.net/feed.php" htmlUrl="https://www.fghrsh.net"/>
-<outline text="ZL Asica的博客" title="ZL Asica的博客" type="rss" xmlUrl="https://www.zl-asica.com/atom.xml" htmlUrl="https://www.zl-asica.com/"/>
+<outline text="ZLA 小站" title="ZLA 小站" type="rss" xmlUrl="https://www.zla.pub/feed.xml" htmlUrl="https://www.zla.pub/"/>
 <outline text="Another Dayu" title="Another Dayu" type="rss" xmlUrl="https://anotherdayu.com/feed/" htmlUrl="https://anotherdayu.com/"/>
 <outline text="胡说" title="胡说" type="rss" xmlUrl="https://blog.zhangyingwei.com/index.xml" htmlUrl="https://blog.zhangyingwei.com/"/>
 <outline text="唱诗班" title="唱诗班" type="rss" xmlUrl="https://changshiban.com/index.xml" htmlUrl="https://changshiban.com/"/>
