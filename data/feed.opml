@@ -2,7 +2,7 @@
 <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="https://www.ruanyifeng.com/blog/"/>
 <outline text="酷 壳 – CoolShell" title="酷 壳 – CoolShell" type="rss" xmlUrl="http://coolshell.cn/feed" htmlUrl="https://coolshell.cn"/>
 <outline text="张鑫旭-鑫空间-鑫生活" title="张鑫旭-鑫空间-鑫生活" type="rss" xmlUrl="http://www.zhangxinxu.com/wordpress/?feed=rss2" htmlUrl="https://www.zhangxinxu.com/"/>
-<outline text="Alili丶前端大爆炸" title="Alili丶前端大爆炸" type="rss" xmlUrl="https://alili.tech/index.xml" htmlUrl="https://alili.tech"/>
+<outline text="Time Friend" title="Time Friend" type="rss" xmlUrl="https://time-friend.com/zh/index.xml" htmlUrl="https://time-friend.com"/>
 <outline text="蚊子前端博客" title="蚊子前端博客" type="rss" xmlUrl="https://www.xiabingbao.com/atom.xml" htmlUrl="https://www.xiabingbao.com"/>
 <outline text="DIYGod - 写代码是热爱，写到世界充满爱!" title="DIYGod - 写代码是热爱，写到世界充满爱!" type="rss" xmlUrl="https://diygod.cc/feed" htmlUrl="https://diygod.cc"/>
 <outline text="MacTalk-池建强的随想录" title="MacTalk-池建强的随想录" type="rss" xmlUrl="http://macshuo.com/?feed=rss2" htmlUrl="http://macshuo.com"/>
@@ -404,7 +404,6 @@
 <outline text="Diff客旅日记" title="Diff客旅日记" type="rss" xmlUrl="https://diff.im/blog/?feed=rss2" htmlUrl="https://diff.im/blog/"/>
 <outline text="jax - 走在路上" title="jax - 走在路上" type="rss" xmlUrl="https://cdjax.com/?feed=rss2" htmlUrl="https://cdjax.com/"/>
 <outline text="XINDOO的博客" title="XINDOO的博客" type="rss" xmlUrl="https://zxs.io/feed" htmlUrl="https://zxs.io"/>
-<outline text="懒得勤快的博客" title="懒得勤快的博客" type="rss" xmlUrl="https://masuit.com/rss" htmlUrl="https://masuit.com"/>
 <outline text="极客兔兔" title="极客兔兔" type="rss" xmlUrl="https://geektutu.com/feed.xml" htmlUrl="https://geektutu.com"/>
 <outline text="极客中心" title="极客中心" type="rss" xmlUrl="https://www.geekzl.com/feed" htmlUrl="https://www.geekzl.com"/>
 <outline text="陈少文的博客" title="陈少文的博客" type="rss" xmlUrl="https://www.chenshaowen.com/atom.xml" htmlUrl="https://www.chenshaowen.com/blog/"/>
@@ -845,7 +844,7 @@
 <outline text="吐司面包" title="吐司面包" type="rss" xmlUrl="https://toast.pub/totoro/index.xml" htmlUrl="https://toast.pub/totoro/"/>
 <outline text="vegetable1024的博客" title="vegetable1024的博客" type="rss" xmlUrl="https://oi-liu.com/atom.xml" htmlUrl="https://oi-liu.com/"/>
 <outline text="Kenvix's Blog" title="Kenvix's Blog" type="rss" xmlUrl="https://kenvix.com/rss.xml" htmlUrl="https://kenvix.com/"/>
-<outline text="心的道理" title="心的道理" type="rss" xmlUrl="https://stephenleng.com/feed/" htmlUrl="https://stephenleng.com/"/>
+<outline text="心的道理" title="心的道理" type="rss" xmlUrl="https://stephenleng.com/cn/feed/" htmlUrl="https://stephenleng.com/"/>
 <outline text="Eson Wong's Blog" title="Eson Wong's Blog" type="rss" xmlUrl="https://blog.esonwong.com/atom.xml" htmlUrl="https://blog.esonwong.com/"/>
 <outline text="阿啊阿吖丁" title="阿啊阿吖丁" type="rss" xmlUrl="https://4ading.com/feed/" htmlUrl="https://4ading.com/"/>
 <outline text="Java不加糖's Blog" title="Java不加糖's Blog" type="rss" xmlUrl="https://blog.javazero.top/atom.xml" htmlUrl="https://blog.javazero.top/"/>
@@ -1073,7 +1072,7 @@
 <outline text="Raye's Journey" title="Raye's Journey" type="rss" xmlUrl="https://rayepeng.net/feed" htmlUrl="https://rayepeng.net"/>
 <outline text="CuB3y0nd's Writings" title="CuB3y0nd's Writings" type="rss" xmlUrl="https://www.cubeyond.net/feed.xml" htmlUrl="https://cubeyond.net"/>
 <outline text="俟河清" title="俟河清" type="rss" xmlUrl="https://naive514.top/atom.xml" htmlUrl="https://naive514.top"/>
-<outline text="游钓四方" title="游钓四方" type="rss" xmlUrl="https://lhasa.icu/atom.xml" htmlUrl="https://lhasa.icu/"/>
+<outline text="游钓四方" title="游钓四方" type="rss" xmlUrl="https://lhasa.icu/rss.xml" htmlUrl="https://lhasa.icu/"/>
 <outline text="十月遗忘诗" title="十月遗忘诗" type="rss" xmlUrl="https://greniray.org/feed" htmlUrl="https://greniray.org"/>
 <outline text="AsyncX's Blog" title="AsyncX's Blog" type="rss" xmlUrl="https://hi.asyncx.top/rss.xml" htmlUrl="https://hi.asyncx.top"/>
 <outline text="Mag‘s Blog" title="Mag‘s Blog" type="rss" xmlUrl="https://mag267.github.io/atom.xml" htmlUrl="https://mag267.github.io/"/>
@@ -1085,7 +1084,7 @@
 <outline text="雷蒙三十" title="雷蒙三十" type="rss" xmlUrl="https://raymondhouch.com/feed" htmlUrl="https://raymondhouch.com/"/>
 <outline text="Kaffa" title="Kaffa" type="rss" xmlUrl="https://kaffa.im/feeds/all.atom.xml" htmlUrl="https://kaffa.im/"/>
 <outline text="Val.istar.Guo Blog" title="Val.istar.Guo Blog" type="rss" xmlUrl="https://val-istar-guo.com/api/rss/feed" htmlUrl="https://val-istar-guo.com"/>
-<outline text="码农小易的博客" title="码农小易的博客" type="rss" xmlUrl="https://0xlau.dev/posts/index.xml" htmlUrl="https://0xlau.dev/"/>
+<outline text="码农小易的博客" title="码农小易的博客" type="rss" xmlUrl="https://timlau.me/rss.xml" htmlUrl="https://timlau.me/"/>
 <outline text="jdjwzx233-Blog" title="jdjwzx233-Blog" type="rss" xmlUrl="https://www.jdjwzx233.cn/atom.xml" htmlUrl="https://www.jdjwzx233.cn/"/>
 <outline text="编程随想的博客" title="编程随想的博客" type="rss" xmlUrl="https://feeds2.feedburner.com/programthink" htmlUrl="https://program-think.blogspot.com"/>
 <outline text="乌云盖雪" title="乌云盖雪" type="rss" xmlUrl="https://wygxmew.github.io/index.xml" htmlUrl="https://wygxmew.github.io"/>
@@ -1119,7 +1118,7 @@
 <outline text="JZ's Rambles" title="JZ's Rambles" type="rss" xmlUrl="https://ramble.imzh.me/index.xml" htmlUrl="https://ramble.imzh.me/"/>
 <outline text="mafeifan的技术博客" title="mafeifan的技术博客" type="rss" xmlUrl="https://mafeifan.com/feed.rss" htmlUrl="https://mafeifan.com/"/>
 <outline text="Wener's Live &amp; Life" title="Wener's Live &amp; Life" type="rss" xmlUrl="https://wener.me/story/rss.xml" htmlUrl="https://wener.me/"/>
-<outline text="尼普学种花" title="尼普学种花" type="rss" xmlUrl="https://kneep.github.io/index.xml" htmlUrl="https://kneep.github.io"/>
+<outline text="尼普学种花" title="尼普学种花" type="rss" xmlUrl="https://kneep.top/index.xml" htmlUrl="https://kneep.top"/>
 <outline text="数据仓库技术" title="数据仓库技术" type="rss" xmlUrl="https://www.dwsql.com/interview" htmlUrl="https://www.dwsql.com/"/>
 <outline text="肘子的 Swift 记事本" title="肘子的 Swift 记事本" type="rss" xmlUrl="https://fatbobman.com/zh/rss.xml" htmlUrl="https://fatbobman.com/"/>
 <outline text="Tevin Zhang" title="Tevin Zhang" type="rss" xmlUrl="https://tevinzhang.com/zh/feed.xml" htmlUrl="https://tevinzhang.com/zh/"/>
@@ -1350,10 +1349,44 @@
 <outline text="0x7c14'blog" title="0x7c14'blog" type="rss" xmlUrl="https://tomorin.cyou/rss.xml" htmlUrl="https://tomorin.cyou/"/>
 <outline text="智客" title="智客" type="rss" xmlUrl="https://zicq.com/sitemap.xml" htmlUrl="https://zicq.com/"/>
 <outline text="云海札记" title="云海札记" type="rss" xmlUrl="https://www.auvetu.com/rss.xml" htmlUrl="https://www.auvetu.com/"/>
-<outline text="科学上网与AI工具指南" title="科学上网与AI工具指南" type="rss" xmlUrl="https://tanqingbo.cn/atom.xml" htmlUrl="https://tanqingbo.cn/"/>
 <outline text="AI Notes" title="AI Notes" type="rss" xmlUrl="https://notes.yachiyo.im/rss.xml" htmlUrl="https://notes.yachiyo.im/"/>
 <outline text="Luyao Zhang" title="Luyao Zhang" type="rss" xmlUrl="https://zhangluyao.com/index.xml" htmlUrl="https://zhangluyao.com/"/>
 <outline text="空と海" title="空と海" type="rss" xmlUrl="https://blog.chiyo.uk/rss.xml" htmlUrl="https://blog.chiyo.uk/"/>
 <outline text="栖迟处" title="栖迟处" type="rss" xmlUrl="https://cavill.site/rss.xml" htmlUrl="https://cavill.site/"/>
 <outline text="Chenhe" title="Chenhe" type="rss" xmlUrl="https://chenhe.me/atom.xml" htmlUrl="https://chenhe.me/"/>
+<outline text="shuzhi.zone" title="shuzhi.zone" type="rss" xmlUrl="https://shuzhi.zone/rss.xml" htmlUrl="https://shuzhi.zone/"/>
+<outline text="菜鸟的小站" title="菜鸟的小站" type="rss" xmlUrl="https://www.caiguoyu.cn/api/rss.xml" htmlUrl="https://www.caiguoyu.cn/"/>
+<outline text="青雲的博客" title="青雲的博客" type="rss" xmlUrl="https://www.echovic.com/rss.xml" htmlUrl="https://www.echovic.com"/>
+<outline text="随轩" title="随轩" type="rss" xmlUrl="https://yilinhut.net/feed/" htmlUrl="https://yilinhut.net/"/>
+<outline text="pious fox" title="pious fox" type="rss" xmlUrl="https://www.thefox.work/rss/feed.xml" htmlUrl="https://www.thefox.work/"/>
+<outline text="Leonxieの小窝" title="Leonxieの小窝" type="rss" xmlUrl="https://www.leonxie.cn/rss.xml" htmlUrl="https://www.leonxie.cn"/>
+<outline text="伯正博客" title="伯正博客" type="rss" xmlUrl="https://www.chenbozheng.com/feed" htmlUrl="https://www.chenbozheng.com/"/>
+<outline text="tianxingleo的blog" title="tianxingleo的blog" type="rss" xmlUrl="https://tianxingleo.top/atom.xml" htmlUrl="https://tianxingleo.top"/>
+<outline text="撕心砸念" title="撕心砸念" type="rss" xmlUrl="https://zanian.vip/feed.xml" htmlUrl="https://zanian.vip/"/>
+<outline text="虎行独语" title="虎行独语" type="rss" xmlUrl="https://tiger.work/rss/" htmlUrl="https://tiger.work/"/>
+<outline text="一极乐博客" title="一极乐博客" type="rss" xmlUrl="https://yijile.com/atom.xml" htmlUrl="https://yijile.com"/>
+<outline text="科学空间" title="科学空间" type="rss" xmlUrl="https://kexue.fm/feed" htmlUrl="https://kexue.fm"/>
+<outline text="一个橙子pro" title="一个橙子pro" type="rss" xmlUrl="https://yigechengzi.com/rss" htmlUrl="https://yigechengzi.com"/>
+<outline text="于淼" title="于淼" type="rss" xmlUrl="https://yufree.cn/index.xml" htmlUrl="https://yufree.cn/"/>
+<outline text="Laisky's Blog" title="Laisky's Blog" type="rss" xmlUrl="https://s3.laisky.com/public/rss.xml" htmlUrl="https://blog.laisky.com/"/>
+<outline text="何晓东的博客" title="何晓东的博客" type="rss" xmlUrl="https://alpha2016.github.io/feed" htmlUrl="https://alpha2016.github.io"/>
+<outline text="Neal 的博客" title="Neal 的博客" type="rss" xmlUrl="https://madneal.com/index.xml" htmlUrl="https://madneal.com"/>
+<outline text="奶爸建站笔记" title="奶爸建站笔记" type="rss" xmlUrl="https://blog.naibabiji.com/feed" htmlUrl="https://blog.naibabiji.com/"/>
+<outline text="crossoverJie's Blog" title="crossoverJie's Blog" type="rss" xmlUrl="https://crossoverjie.top/atom.xml" htmlUrl="https://crossoverjie.top/"/>
+<outline text="kn007的个人博客" title="kn007的个人博客" type="rss" xmlUrl="https://kn007.net/feed/" htmlUrl="https://kn007.net/"/>
+<outline text="Yachen's Blog" title="Yachen's Blog" type="rss" xmlUrl="https://yachen.com/feed/" htmlUrl="https://yachen.com/"/>
+<outline text="CRIVU" title="CRIVU" type="rss" xmlUrl="https://cbc688.com/rss.xml" htmlUrl="https://cbc688.com/"/>
+<outline text="23朵毒蘑菇" title="23朵毒蘑菇" type="rss" xmlUrl="https://blog.dumogu.top/rss.xml" htmlUrl="https://blog.dumogu.top/"/>
+<outline text="Simon's Blog" title="Simon's Blog" type="rss" xmlUrl="https://song.al/feed.xml" htmlUrl="https://song.al/"/>
+<outline text="solazy" title="solazy" type="rss" xmlUrl="https://blog.solazy.me/feed/" htmlUrl="https://blog.solazy.me/"/>
+<outline text="Indie Dev Weekly" title="Indie Dev Weekly" type="rss" xmlUrl="https://www.shudao.wang/feed.xml" htmlUrl="https://www.shudao.wang/"/>
+<outline text="Tw93 潮流周刊" title="Tw93 潮流周刊" type="rss" xmlUrl="https://weekly.tw93.fun/rss.xml" htmlUrl="https://weekly.tw93.fun/"/>
+<outline text="龙爪槐守望者" title="龙爪槐守望者" type="rss" xmlUrl="https://www.ftium4.com/rss.xml" htmlUrl="https://www.ftium4.com/"/>
+<outline text="老郭种树" title="老郭种树" type="rss" xmlUrl="https://guozh.net/feed/" htmlUrl="https://guozh.net/"/>
+<outline text="月球背面・Moonvy" title="月球背面・Moonvy" type="rss" xmlUrl="https://moonvy.com/blog/rss.xml" htmlUrl="https://moonvy.com/blog/"/>
+<outline text="Ethan's Homepage" title="Ethan's Homepage" type="rss" xmlUrl="https://ethanwong.page/feed.xml" htmlUrl="https://ethanwong.page/"/>
+<outline text="结绳志 Tying Knots" title="结绳志 Tying Knots" type="rss" xmlUrl="https://tyingknots.net/index.xml" htmlUrl="https://tyingknots.net/"/>
+<outline text="太隐" title="太隐" type="rss" xmlUrl="https://wangyurui.com/feed.xml" htmlUrl="https://wangyurui.com/"/>
+<outline text="骇客邦" title="骇客邦" type="rss" xmlUrl="https://haikebang.com/feed.xml" htmlUrl="https://haikebang.com/"/>
+<outline text="LYon's Blog" title="LYon's Blog" type="rss" xmlUrl="https://yindongliang.com/index.xml" htmlUrl="https://yindongliang.com/"/>
 </body></opml>
